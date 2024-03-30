@@ -4,7 +4,7 @@ This is an official api for deezer.com in python. With this api you are able to 
 
 ## Important
 
-The relevant cookie is the arl token cookie. The arl token you can get only by buying subscription or subscribe to Deezer Free plan (it is not available in most of the countries)
+The relevant cookie is the **arl token cookie**. The arl token you can get only by buying subscription or subscribe to Deezer Free plan (it is not available in most of the countries)
 
 ## Requirements
 
@@ -16,6 +16,8 @@ cryptography==35.0.0
 ## Install
 
 ``` pip install -r requirements.txt ```
+
+
 
 
 
