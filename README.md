@@ -8,7 +8,7 @@ The relevant cookie is the **arl token cookie**. The arl token you can get only 
 
 ## How to get arl token
 
-https://github.com/kamronbek29/deezer_music_downloader/assets/38859411/003c50bb-6665-4fd9-915b-e7ee997b10cc
+https://github.com/kamronbek29/deezer_music_downloader/assets/38859411/0f692d9a-2c2d-4684-8e2b-26b33b8b4f98
 
 ## Requirements
 
