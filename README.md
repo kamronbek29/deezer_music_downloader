@@ -25,7 +25,8 @@ cryptography==35.0.0
 pip install -r requirements.txt
 ```
 
-
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+This Tool is made for educational purposes only. Do not attempt to violate the law with anything contained here.
 
 
 
