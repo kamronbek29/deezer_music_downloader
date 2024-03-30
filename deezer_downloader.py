@@ -28,6 +28,8 @@ HTTP_HEADERS = {
 GET_USER_DATA = 'deezer.getUserData'
 CHARACTER = b'\xa4'
 
+ARL_TOKEN = 'YOUR ARL TOKEN'
+
 
 def get_track_download_url(md5_origin, media_version, sng_id, track_quality_id):
     """ Generates the deezer download URL from a given MD5_ORIGIN (MD5 hash), SNG_ID and MEDIA_VERSION. """
