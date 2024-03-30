@@ -8,10 +8,11 @@ The relevant cookie is the **arl token cookie**. The arl token you can get only 
 
 ## Requirements
 
-python 3.7+
+``` python 3.7+
 requests==2.28.1
 urllib3==1.26.18
 cryptography==35.0.0
+``` 
 
 ## Install
 
